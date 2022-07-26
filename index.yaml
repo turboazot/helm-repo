@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   helm-cache:
   - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-07-26T15:05:36.234793159Z"
+    description: A Helm chart for Kubernetes
+    digest: 22aac2abe11467f3c11839f2e91dd645a7c804284863740310536890f8eb6ce7
+    name: helm-cache
+    type: application
+    urls:
+    - https://turboazot.github.io/helm-repo/helm-cache-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-07-26T14:34:20.641791633Z"
+    created: "2022-07-26T15:05:36.234464863Z"
     description: A Helm chart for Kubernetes
     digest: 01dff21d7c4c7cdd6dbbadcb3b97f7a50372eac4a40e80dbcba033d1be4a4ff6
     name: helm-cache
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://turboazot.github.io/helm-repo/helm-cache-0.0.1.tgz
     version: 0.0.1
-generated: "2022-07-26T14:34:20.641295318Z"
+generated: "2022-07-26T15:05:36.233913569Z"
